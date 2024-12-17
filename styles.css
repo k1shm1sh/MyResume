@@ -4,6 +4,7 @@ body {
     padding: 0;
     background-color: #1e1e1e;
     color: #e0e0e0;
+    line-height: 1.6;
 }
 
 nav {
@@ -107,21 +108,21 @@ footer {
 
 #about-me-name {
     position: relative;
-    padding: 50px;
+    padding: 50px 50px 20px 50px;
     top: 20px;
     font-size: 50px;
 }
 
 #about-me-paragraph {
     padding-left: 50px;
-    max-width: 400px;
+    max-width: 600px;
 }
 
 #about-me-image {
     position: absolute;
-    width: 30vw;
+    width: 35vw;
     height: auto;
-    top: 15%;
+    top: 30%;
     left: 60%;
     margin-right: 20px;
 }
@@ -260,7 +261,7 @@ footer {
 
 .contact-info {
     position: relative;
-    height: 30%;
+    height: 40%;
     width: 20%;   
     /*top: 40%;  
     left: 40%;
